@@ -58,9 +58,9 @@ Execute (x)	   1
 Add values to set permissions:
 
 Permission Combo	Value
-rwx	7 (4+2+1)
-rw-	6 (4+2)
-r--	4
+rwx	         7     (4+2+1)
+rw-	         6      (4+2)
+r--	         4       (4)
 
 So chmod 754 file.txt means:
 
