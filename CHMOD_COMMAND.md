@@ -78,10 +78,10 @@ Output : rwxr-xr-x
 3. Symbolic Mode
 You can also change permissions with symbols:
 
-Symbol	Meaning
-+	Add
--	Remove
-=	Set exact
+Symbol  	Meaning
+  +	         Add
+  -	        Remove
+  =	       Set exact
 
 ✅ Examples
 
